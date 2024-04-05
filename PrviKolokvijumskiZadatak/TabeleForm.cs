@@ -60,7 +60,10 @@ namespace ADONETComplete
 
                         eFrm.e = em;
 
+                        this.toggleActionButtons();
                         eFrm.ShowDialog();
+                        this.toggleActionButtons();
+
                         this.ShowSelectedTable();
                         
                         break;
@@ -72,7 +75,10 @@ namespace ADONETComplete
                         cu = BLcustomer.GetCustomer(i);
                         cFrm.c = cu;
 
+                        this.toggleActionButtons();
                         cFrm.ShowDialog();
+                        this.toggleActionButtons();
+
                         this.ShowSelectedTable();
                         break;
                 }
@@ -84,6 +90,12 @@ namespace ADONETComplete
 
         }
 
+        private void toggleActionButtons()
+        {
+            btnIzmeni.Enabled = !btnIzmeni.Enabled;
+            btnNovi.Enabled = !btnNovi.Enabled;
+            btnObrisi.Enabled = !btnObrisi.Enabled;
+        }
         private void btnNovi_Click(object sender, EventArgs e)
         {
             string selected = cmbIzborTabele.SelectedItem.ToString();
@@ -95,7 +107,10 @@ namespace ADONETComplete
                     Employee em = new Employee();
                     eFrm.e = em;
 
+                    this.toggleActionButtons();
                     eFrm.ShowDialog();
+                    this.toggleActionButtons();
+
                     this.ShowSelectedTable();
                     break;
 
@@ -104,7 +119,10 @@ namespace ADONETComplete
                     Customer cu = new Customer();
                     cFrm.c = cu;
 
+                    this.toggleActionButtons();
                     cFrm.ShowDialog();
+                    this.toggleActionButtons();
+
                     this.ShowSelectedTable();
                     break;
             }

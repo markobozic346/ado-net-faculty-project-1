@@ -3,10 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Marko\\Desktop\\ADONETComplete-20240403T175252Z-001\\PrviKolokvijum\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|PrviKolokvijumskiZadatak||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{E9D0265F-D937-4BE4-A0D7-E57C88E83252}|PrviKolokvijumskiZadatak\\PrviKolokvijumskiZadatak.csproj|c:\\users\\marko\\desktop\\adonetcomplete-20240403t175252z-001\\prvikolokvijum\\prvikolokvijumskizadatak\\tabeleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9D0265F-D937-4BE4-A0D7-E57C88E83252}|PrviKolokvijumskiZadatak\\PrviKolokvijumskiZadatak.csproj|solutionrelative:prvikolokvijumskizadatak\\tabeleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9D0265F-D937-4BE4-A0D7-E57C88E83252}|PrviKolokvijumskiZadatak\\PrviKolokvijumskiZadatak.csproj|c:\\users\\marko\\desktop\\adonetcomplete-20240403t175252z-001\\prvikolokvijum\\prvikolokvijumskizadatak\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|a54ad834-9219-4aa6-b589-607af21c3e26"
+      "AbsoluteMoniker": "D:0:0:{E9D0265F-D937-4BE4-A0D7-E57C88E83252}|PrviKolokvijumskiZadatak\\PrviKolokvijumskiZadatak.csproj|c:\\users\\marko\\desktop\\adonetcomplete-20240403t175252z-001\\prvikolokvijum\\prvikolokvijumskizadatak\\tabeleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E9D0265F-D937-4BE4-A0D7-E57C88E83252}|PrviKolokvijumskiZadatak\\PrviKolokvijumskiZadatak.csproj|solutionrelative:prvikolokvijumskizadatak\\tabeleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,14 +27,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PrviKolokvijumskiZadatak",
-              "DocumentMoniker": "C:\\Users\\Marko\\Desktop\\ADONETComplete-20240403T175252Z-001\\PrviKolokvijum\\PrviKolokvijumskiZadatak\\PrviKolokvijumskiZadatak.csproj",
-              "RelativeDocumentMoniker": "PrviKolokvijumskiZadatak\\PrviKolokvijumskiZadatak.csproj",
-              "ToolTip": "C:\\Users\\Marko\\Desktop\\ADONETComplete-20240403T175252Z-001\\PrviKolokvijum\\PrviKolokvijumskiZadatak\\PrviKolokvijumskiZadatak.csproj",
-              "RelativeToolTip": "PrviKolokvijumskiZadatak\\PrviKolokvijumskiZadatak.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-04-05T18:20:48.108Z",
+              "Title": "TabeleForm.cs",
+              "DocumentMoniker": "C:\\Users\\Marko\\Desktop\\ADONETComplete-20240403T175252Z-001\\PrviKolokvijum\\PrviKolokvijumskiZadatak\\TabeleForm.cs",
+              "RelativeDocumentMoniker": "PrviKolokvijumskiZadatak\\TabeleForm.cs",
+              "ToolTip": "C:\\Users\\Marko\\Desktop\\ADONETComplete-20240403T175252Z-001\\PrviKolokvijum\\PrviKolokvijumskiZadatak\\TabeleForm.cs",
+              "RelativeToolTip": "PrviKolokvijumskiZadatak\\TabeleForm.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAUwD8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T18:26:28.602Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TabeleForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Marko\\Desktop\\ADONETComplete-20240403T175252Z-001\\PrviKolokvijum\\PrviKolokvijumskiZadatak\\TabeleForm.cs",
+              "RelativeDocumentMoniker": "PrviKolokvijumskiZadatak\\TabeleForm.cs",
+              "ToolTip": "C:\\Users\\Marko\\Desktop\\ADONETComplete-20240403T175252Z-001\\PrviKolokvijum\\PrviKolokvijumskiZadatak\\TabeleForm.cs [Design]",
+              "RelativeToolTip": "PrviKolokvijumskiZadatak\\TabeleForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T18:26:16.318Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }
