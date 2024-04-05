@@ -20,3 +20,14 @@ C:\Users\Marko\Desktop\ADONETComplete-20240403T175252Z-001\ADONETComplete\Busine
 C:\Users\Marko\Desktop\ADONETComplete-20240403T175252Z-001\ADONETComplete\BusinessLoginc\obj\Debug\Business.488489D3.Up2Date
 C:\Users\Marko\Desktop\ADONETComplete-20240403T175252Z-001\ADONETComplete\BusinessLoginc\obj\Debug\BusinessLoginc.dll
 C:\Users\Marko\Desktop\ADONETComplete-20240403T175252Z-001\ADONETComplete\BusinessLoginc\obj\Debug\BusinessLoginc.pdb
+C:\Users\Marko\Desktop\ADONETComplete-20240403T175252Z-001\PrviKolokvijum\BusinessLoginc\bin\Debug\BusinessLoginc.dll
+C:\Users\Marko\Desktop\ADONETComplete-20240403T175252Z-001\PrviKolokvijum\BusinessLoginc\bin\Debug\BusinessLoginc.pdb
+C:\Users\Marko\Desktop\ADONETComplete-20240403T175252Z-001\PrviKolokvijum\BusinessLoginc\bin\Debug\DataLayer.dll
+C:\Users\Marko\Desktop\ADONETComplete-20240403T175252Z-001\PrviKolokvijum\BusinessLoginc\bin\Debug\Domain.dll
+C:\Users\Marko\Desktop\ADONETComplete-20240403T175252Z-001\PrviKolokvijum\BusinessLoginc\bin\Debug\DataLayer.pdb
+C:\Users\Marko\Desktop\ADONETComplete-20240403T175252Z-001\PrviKolokvijum\BusinessLoginc\bin\Debug\Domain.pdb
+C:\Users\Marko\Desktop\ADONETComplete-20240403T175252Z-001\PrviKolokvijum\BusinessLoginc\obj\Debug\BusinessLoginc.csproj.AssemblyReference.cache
+C:\Users\Marko\Desktop\ADONETComplete-20240403T175252Z-001\PrviKolokvijum\BusinessLoginc\obj\Debug\BusinessLoginc.csproj.CoreCompileInputs.cache
+C:\Users\Marko\Desktop\ADONETComplete-20240403T175252Z-001\PrviKolokvijum\BusinessLoginc\obj\Debug\Business.488489D3.Up2Date
+C:\Users\Marko\Desktop\ADONETComplete-20240403T175252Z-001\PrviKolokvijum\BusinessLoginc\obj\Debug\BusinessLoginc.dll
+C:\Users\Marko\Desktop\ADONETComplete-20240403T175252Z-001\PrviKolokvijum\BusinessLoginc\obj\Debug\BusinessLoginc.pdb

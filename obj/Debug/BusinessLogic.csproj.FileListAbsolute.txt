@@ -1,0 +1,2 @@
+C:\Users\Marko\Desktop\ADONETComplete-20240403T175252Z-001\PrviKolokvijum\obj\Debug\BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\Marko\Desktop\ADONETComplete-20240403T175252Z-001\PrviKolokvijum\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache

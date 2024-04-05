@@ -16,3 +16,12 @@ C:\Users\Marko\Desktop\ADONETComplete-20240403T175252Z-001\ADONETComplete\DataLa
 C:\Users\Marko\Desktop\ADONETComplete-20240403T175252Z-001\ADONETComplete\DataLayer\obj\Debug\DataLayer.csproj.Up2Date
 C:\Users\Marko\Desktop\ADONETComplete-20240403T175252Z-001\ADONETComplete\DataLayer\obj\Debug\DataLayer.dll
 C:\Users\Marko\Desktop\ADONETComplete-20240403T175252Z-001\ADONETComplete\DataLayer\obj\Debug\DataLayer.pdb
+C:\Users\Marko\Desktop\ADONETComplete-20240403T175252Z-001\PrviKolokvijum\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\Marko\Desktop\ADONETComplete-20240403T175252Z-001\PrviKolokvijum\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\Marko\Desktop\ADONETComplete-20240403T175252Z-001\PrviKolokvijum\DataLayer\bin\Debug\Domain.dll
+C:\Users\Marko\Desktop\ADONETComplete-20240403T175252Z-001\PrviKolokvijum\DataLayer\bin\Debug\Domain.pdb
+C:\Users\Marko\Desktop\ADONETComplete-20240403T175252Z-001\PrviKolokvijum\DataLayer\obj\Debug\DataLayer.csproj.AssemblyReference.cache
+C:\Users\Marko\Desktop\ADONETComplete-20240403T175252Z-001\PrviKolokvijum\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Marko\Desktop\ADONETComplete-20240403T175252Z-001\PrviKolokvijum\DataLayer\obj\Debug\DataLayer.csproj.Up2Date
+C:\Users\Marko\Desktop\ADONETComplete-20240403T175252Z-001\PrviKolokvijum\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\Marko\Desktop\ADONETComplete-20240403T175252Z-001\PrviKolokvijum\DataLayer\obj\Debug\DataLayer.pdb

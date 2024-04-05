@@ -9,3 +9,9 @@ C:\Users\Marko\Desktop\ADONETComplete-20240403T175252Z-001\ADONETComplete\Domain
 C:\Users\Marko\Desktop\ADONETComplete-20240403T175252Z-001\ADONETComplete\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
 C:\Users\Marko\Desktop\ADONETComplete-20240403T175252Z-001\ADONETComplete\Domain\obj\Debug\Domain.dll
 C:\Users\Marko\Desktop\ADONETComplete-20240403T175252Z-001\ADONETComplete\Domain\obj\Debug\Domain.pdb
+C:\Users\Marko\Desktop\ADONETComplete-20240403T175252Z-001\PrviKolokvijum\Domain\bin\Debug\Domain.dll
+C:\Users\Marko\Desktop\ADONETComplete-20240403T175252Z-001\PrviKolokvijum\Domain\bin\Debug\Domain.pdb
+C:\Users\Marko\Desktop\ADONETComplete-20240403T175252Z-001\PrviKolokvijum\Domain\obj\Debug\Domain.csproj.AssemblyReference.cache
+C:\Users\Marko\Desktop\ADONETComplete-20240403T175252Z-001\PrviKolokvijum\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Marko\Desktop\ADONETComplete-20240403T175252Z-001\PrviKolokvijum\Domain\obj\Debug\Domain.dll
+C:\Users\Marko\Desktop\ADONETComplete-20240403T175252Z-001\PrviKolokvijum\Domain\obj\Debug\Domain.pdb
