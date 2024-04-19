@@ -81,6 +81,7 @@ namespace ADONETComplete
                 {
                     BLemployee.InsertEmployee(this.e);
                     MessageBox.Show("Usesno unet red!");
+
                     this.Close();
                 }
                 catch(Exception ex)
